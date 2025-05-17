@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Xuming Meng 孟旭明 :smile:"
-  sub = "Robotics Engineer: Control, Planning, Multifingered Hands, Elastic-joint Robots "
+  main = "Xuming Meng <br> 孟旭明 <br> :wink:"
+  sub = "Robotics Engineer: <br> Control, Multifingered Hands, Elastic-joint Robots "
 
 [params.main]
   latestPublishHeader = " "
