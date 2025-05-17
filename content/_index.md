@@ -13,7 +13,9 @@ for manipulator and multi-fingered hands.
 
 ## Me and neoDavid
 
-{{< figure src="/post_images/me_david.jpg" caption="Me and neoDavid at the European Robotics Forum 2024 (ERF2024), Rimini, Italy" >}}
+{{< figure src="post_images/me_david.jpg" caption="Me and neoDavid at the European Robotics Forum 2024 (ERF2024), Rimini, Italy" >}}
+
+{{< figure src="/post/images/sample_image.jpg" caption="Photo by Tim Mossholder on Unsplash" >}}
 
 
 [Check out CV](/cv "CV")
