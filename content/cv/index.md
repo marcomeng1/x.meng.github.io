@@ -18,7 +18,7 @@ Dedicated robotic researcher with 5 years of hands-on experience in control, mec
   variable stiffness actuator (VSA) modelling, mulfifingered hand control,
   human-robot interaction and collaboration
 
-**simulators:** MuJoco, Gazebo, ANSYS; 
+**simulators:** MuJoCo, Gazebo, ANSYS; 
 
 **programming:** Matlab/Simulink, ROS (noetic, melodic), python, git, C++, LaTeX, bash, PLC-Programming (with Standard IEC 61131-3), UML, XML, SysML, SysML4Mechatronics.
 
@@ -30,6 +30,13 @@ Dedicated robotic researcher with 5 years of hands-on experience in control, mec
 
 ## Experience
 
+#### 2022-2025
+__Doctoral Candidate in Robotics @ Technical University of Munich (TUM)__
+- Thesis: __Reactive Motion Generation and Control of Elastic-Joint Robots for Grasping__ (Expected graduation: End of 2025)
+- Reactive motion generation for high-dimensional robots
+- Multi-fingerd hand control (including tendon-driven systems), e.g., DLR neoDavid Hand
+- Elastic actuator control: hybird motion and force control
+
 #### 2020-2025
 __Research Scientist @ German Aerospace Center (DLR)__
 - Developed novel control strategies: the research focuses on enhancing dynamic and reactive robotic grasping and manipulation for the humanoid robot, e.g., DLR neoDavid. Profound and practical knowledge of using physics simulators like MuJoCo for manipulation and grasping use cases including real-world robotic deployment. 
@@ -37,12 +44,10 @@ __Research Scientist @ German Aerospace Center (DLR)__
 -	Developed and implemented demos: Conducted live demonstration at notable exhibitions such as Automatica 2022 and European Robotics Forum 2024.
 - Advised and mentored students: Provided guidance and mentorship to three master’s students.
 
-#### 2022-2025
-__Doctoral Candidate in Robotics @ Technical University of Munich (TUM)__
-- Thesis: __Reactive Motion Generation and Control of Elastic-Joint Robots for Grasping__ (Expected graduation: End of 2025)
-- Reactive motion generation for high-dimensional robots
-- Multi-fingerd hand control (including tendon-driven systems),e.g., neoDavid Hand
-- Elastic actuator control: hybird motion and force control
+#### 2018-2019
+__Intern @ Bayerische Motoren Werke (BMW) AG in Munich, Germany__
+- Tool development for the automated data evaluation at the drive test bench and programming of the test methods at the Department Experimental and Simulation Methods for Engine Development (EA-812).
+
 
 ## Education
 
