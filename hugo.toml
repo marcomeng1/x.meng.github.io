@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Xuming Meng <br> 孟旭明 <br> :wink:"
-  sub = "Robotics Engineer: <br> Control, Multifingered Hands, Elastic-joint Robots "
+  sub = "Robotics Researcher: <br> Control, Multifingered Hands, Elastic-joint Robots "
 
 [params.main]
   latestPublishHeader = " "
@@ -54,7 +54,7 @@ pygmentsCodeFences=true
 
 [params.contact]
   email = "xuming.meng@yahoo.com"
-  text= "eMail" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
