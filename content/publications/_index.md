@@ -5,8 +5,8 @@ description: 'Portfolio Section'
 Most of my projects are based on an elastic humanoid robot: [DLR neoDavid](https://www.dlr.de/en/rm/research/robotic-systems/humanoids/david) [(video)](https://www.youtube.com/watch?v=N5QTvjFdIPM). 
 
 ## Projects
-- Dynamic and reactive real-time (3 kHz) motion generation for a 20 (Hand) plus 6-DoF (Arm) humanoid robots
-{{< figure src="/publications/images/ff_1.gif" caption="Showcase 1: DLR neoDavid catching a unpredictble moving object with real-time preception feedback in 30 Hz. &copy; DLR 2025" >}}
+- Dynamic and reactive real-time (3 kHz) motion generation for a 20 (Hand) plus 6-DoF (Arm) humanoid robot.
+{{< figure src="/publications/images/ff_1.gif" caption="Showcase 1: DLR neoDavid is catching a unpredictble moving object with real-time preception feedback in 30 Hz. &copy; DLR 2025" >}}
 {{< figure src="/publications/images/ff_3.gif" caption="Showcase 2: adversarial human-to-robot handover, i.e., grasp interruption and recovery at any time at any place. &copy; DLR 2025" >}}
 
 - Passivity-based motion and force control for holonomic-contrained elastic-joint robots
