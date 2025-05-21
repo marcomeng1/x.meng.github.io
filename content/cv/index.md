@@ -14,19 +14,17 @@ Dedicated robotic researcher with 5 years of hands-on experience in control, mec
 
 ## Skills
 
-**robotics:** impedance control, Lyapunov stablity, nonlinear control, inverse dynamics control,
-  variable stiffness actuator (VSA) modelling, mulfifingered hand control,
-  human-robot interaction and collaboration
+**robotics:** impedance control, Lyapunov stability, nonlinear control, inverse dynamics control, passivity-based tracking control, variable stiffness actuator (VSA) modelling, holonomic-constrained Euler-Lagrange dynamics, port-Hamiltonian system, tendon-driven hands, elastic hands, multifingered hand control, feedback motion planning (vector field, GMM, GMR), reactive control, grasping control, human-robot interaction and collaboration, trajectory optimization.
 
-**simulators:** MuJoCo, Gazebo, ANSYS; 
+**simulations:** MuJoCo (with Roy Featherstone's dynamics libs), Gazebo, ANSYS. 
 
 **programming:** Matlab/Simulink, ROS (noetic, melodic), python, git, C++, LaTeX, bash, PLC-Programming (with Standard IEC 61131-3), UML, XML, SysML, SysML4Mechatronics.
 
-**software project management:** SCRUM, 
+**software project management:** SCRUM. 
 
-**mechnical modelling:** Solidworks, Autodesk CAD, Autodesk 3ds Max; 
+**mechnical modelling:** Solidworks, Autodesk CAD, Autodesk 3ds Max. 
 
-**languages:** Chinese, English and German
+**languages:** Chinese, English and German.
 
 ## Experience
 
